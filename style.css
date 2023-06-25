@@ -1,0 +1,158 @@
+html{
+    font-size: 62.5%;
+}
+/* style for heading */	
+.nav{
+    width: 50%;
+    height: 8rem;
+    margin: 0 auto;
+    background: linear-gradient(90deg,cyan 0%,rgb(0,0,255,0.6) 90%);
+    color: rgb(240, 255, 255);
+    text-align: center;
+    font-size: 15px;
+}
+/*  starts gallary styling  */
+.gallary{
+       width: 50%;
+       height: auto;
+       margin: 1.5rem auto;
+}
+/* styling of gallary boxes  */
+.box{
+    height: 13rem;
+    width: 50%;
+    float: left;
+    margin: .2rem 0 0 0;
+    background-color: rgb(240, 255, 255);
+    text-align: center;
+    box-sizing: border-box;
+    border: .2rem solid rgb(90, 105, 120);
+    font-size: 3.2rem;
+    padding-top: 2.5rem;
+}
+/* start styling of icons 
+1st icon styling   */
+.paypal{
+    color: #499bd4;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 3rem;
+}
+/* 2nd icon styling */
+.c{
+       color: red;
+       font-size: 3rem;
+       font-weight: 900;
+   }
+   .c .ɔ{
+       color: orange;
+       font-size: 3rem;
+   }
+/* visa icon styling */
+   .visa{
+       color: #0d3a85;
+       font-size: 3rem;
+       font-style: italic;
+       font-weight: 900;
+   }
+/* dicover icon stying  */
+   .discover{
+       color: orange;
+       font-weight: 900;
+   }
+   .discover i{
+       font-size: 1.3rem;
+   }
+/* amex icon stying  */
+   .amex{
+    color: #499bd4;
+    font-weight: 900;
+}
+/* styling of google icon */
+.g,.gmail{
+    color: #6490e5;
+    font-family:sans-serif;
+    font-size: 3rem;
+    font-weight: 600;
+    letter-spacing: .1rem;
+}
+.o{
+    color: rgb(225, 0, 0);
+    font-weight: 600;
+}
+.o2{
+    color: orange;
+    font-weight: 600;
+}
+.l{
+    color: rgb(0, 120, 0);
+    font-weight: 600;
+}
+.e{
+    font-family:cursive;
+    color: rgb(225, 0, 0);
+    font-weight: 600;
+}
+/* styling of gmail icon */	
+#m{
+    color: rgb(225, 0, 0);
+    font-weight: 600;
+    font-size: 2.1rem;
+}
+.a{
+    color: orange;
+    font-size: 2.6rem;
+}
+.i{
+    color: #6490e5;
+}
+/* styling of justdial icon */	
+.just{
+    color: #6490e5;
+    font-size: 3rem;
+    font-weight: 700;
+    font-family: monospace;
+}
+.j{
+    font-family: sans-serif;
+    font-style: normal;
+}
+.dial{
+    color: orange;
+}
+/* styling of linkedin icon */	
+.linked{
+    color: #6490e5;
+    font-weight: 600;
+    font-family: sans-serif;
+    margin-right: .2rem;
+}
+.in{
+    font-weight: 600;
+    font-size: 2.3rem;
+    font-family: sans-serif;
+    background-color: #6490e5;
+    color: white;
+    border-radius: 15%;
+    padding: 0 .3rem;
+}
+/* styling of ebay icon */	
+.ebay-e{
+    color: red;
+    font-size: 3.5rem;
+    font-weight: 600;
+    letter-spacing: -.3rem;
+}
+.b{
+    color: #6490e5;
+    font-size: 3rem;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+.ebay-a{
+    color: orange;
+}
+.y{
+    color: green;
+    font-family: cursive;
+}
